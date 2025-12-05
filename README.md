@@ -248,5 +248,11 @@ Acesse:
 
 ## Integrantes da Equipe
 
-- Milo Moreira e Castro [@DuMilo]
-- Sofia Travassos Bezerra [@SofiaTravassos]
+<ul>
+<li>Milo Moreira e Castro <a href="https://github.com/DuMilo">[@DuMilo]</a></li> 
+<li>Sofia Travassos Bezerra <a href="https://github.com/SofiaTravassos">[@SofiaTravassos]</a></li>
+</ul>
+<div>
+  <img src="https://avatars.githubusercontent.com/u/132294227?v=4" width=100px height=100px>
+  <img src="https://avatars.githubusercontent.com/u/164456593?v=4" width=100px height=100px>  
+</div>
